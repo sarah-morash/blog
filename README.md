@@ -1,2 +1,2 @@
 # blog
-Blog developed using Ghost
+Blog developed using Paralax
